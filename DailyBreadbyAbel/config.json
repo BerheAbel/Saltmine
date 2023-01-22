@@ -1,0 +1,52 @@
+[
+ {"lg": {"certscope": "saltmine_users-2022-lgdailybread", 
+	 "deviceID": "8015265", 
+	 "testPlan": "692725504", 
+	 "ip": "dial:10.0.0.11",
+	 "UA": "(lgBreadB, lgBreadM, Wired)"
+	}
+ },
+ {"samsung": {"certscope": "saltmine_users-2022-samsungdailybread",
+	      "deviceID": "3584890",
+	      "testPlan": "965951723",
+	      "ip": "dial:10.0.0.2",
+	      "UA": "(samsungBreadB, samsungBreadM, Wired)"
+		}
+ },
+ {"roku": {"certscope": "saltmine_users-2022-rokudailybread",
+	      "deviceID": "4531226",
+	      "testPlan": "262673308",
+	      "ip": "dial:10.0.0.28",
+	      "UA": "(rokuBreadB, rokuBreadM, Wired)"
+		}
+ },
+ {"hisense": {"certscope": "lab-2022-hisensedailybread",
+	      "deviceID": "2782341",
+	      "testPlan": "85667594",
+	      "ip": "dial:10.0.0.5",
+	      "UA": "(hisenseBreadB, hisenseBreadM, Wired)"
+		}
+ },
+ {"google": {"certscope": "saltmine_users-2022-sabrinadailybread",
+	      "deviceID": "9722724",
+	      "testPlan": "637334525",
+	      "ip": "adb:10.0.0.12:5555",
+	      "UA": "(sabrinaBreadB, sabrinaBreadM, Wired)"
+		}
+ },
+ {"insignia": {"certscope": "saltmine_users-2022-amazondailybread",
+	      "deviceID": "1557254",
+	      "testPlan": "937140094",
+	      "ip": "dial:10.0.0.7",
+	      "UA": "(amazonBreadB, amazonBreadM, Wired)"
+		}
+ },
+ {"amlogic": {"certscope": "saltmine_users-2022-amlogicrefdailybread",
+	      "deviceID": "9244258",
+	      "testPlan": "584022724",
+	      "ip": "dial:10.0.0.27",
+	      "UA": "(amlogicBreadB, amlogicBreadM, Wired)"
+		}
+ }
+
+]
